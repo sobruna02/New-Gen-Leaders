@@ -7,12 +7,12 @@
 * Período: **Noturno**
 
 ## Integrantes
-| RA         | NOME COMPLETO       | CURSO | TURMA |
-|------------|---------------------|-------|-------|
-| 2219202737 | BRUNA ESPEJO SOBRAL | TBD  | 4A    |
-| 321  | EDUARDO ALENCAR    | TBD  | 1A    |
-| 2219111103 | JOÃO TENÓRIO   | TBD  | 1A    |
-| 785  | SÉRGIO VITOR   | TBD  | 1A    |
+| RA         | NOME COMPLETO                | CURSO | TURMA |
+|------------|------------------------------|-------|-------|
+| 2219202737 | BRUNA ESPEJO SOBRAL  	    | TBD   | 4A    |
+| 2219203416 | EDUARDO DE ALENCAR LEITE     | TBD   | 4A    |
+| 2219111103 | JOÃO TENÓRIO                 | TBD   | 1A    |
+| 2219111660 | SÉRGIO VITOR DA SILVA SANTOS | TBD   | 5A    |
 
 ## Descrição do Projeto
 Descrever brevemente o objetivo do projeto e como será alcançado. Por exemplo, citar as metodologias utilizadas, linguagens de programação, etc.
